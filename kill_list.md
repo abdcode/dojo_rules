@@ -5,5 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* how will I be able to remember so many commands?
+* how will I be remember so many github commands?
 
